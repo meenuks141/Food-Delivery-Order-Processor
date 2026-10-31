@@ -1,0 +1,19 @@
+FOOD DELIVERY - DAILY SALES REPORT
+
+Total Orders Processed: 10
+Total Revenue: Rs. 4300.0
+Highest Value Order: 110
+Highest Order Value: Rs. 530
+
+ORDER DETAILS
+
+Order ID: 101 | Total: Rs. 340
+Order ID: 102 | Total: Rs. 470
+Order ID: 103 | Total: Rs. 360
+Order ID: 104 | Total: Rs. 470
+Order ID: 105 | Total: Rs. 490.0
+Order ID: 106 | Total: Rs. 520
+Order ID: 107 | Total: Rs. 360
+Order ID: 108 | Total: Rs. 290
+Order ID: 109 | Total: Rs. 470
+Order ID: 110 | Total: Rs. 530

@@ -1,0 +1,71 @@
+[
+    {
+        "order_id": 101,
+        "items": {
+            "Burger": 2,
+            "Juice": 1
+        }
+    },
+    {
+        "order_id": 102,
+        "items": {
+            "Pizza": 1,
+            "Pasta": 1
+        }
+    },
+    {
+        "order_id": 103,
+        "items": {
+            "Sandwich": 2,
+            "Juice": 2
+        }
+    },
+    {
+        "order_id": 104,
+        "items": {
+            "Fried Rice": 2,
+            "Shawarma": 1
+        }
+    },
+    {
+        "order_id": 105,
+        "items": {
+            "Pizza": 2
+        }
+    },
+    {
+        "order_id": 106,
+        "items": {
+            "Burger": 1,
+            "Pasta": 2
+        }
+    },
+    {
+        "order_id": 107,
+        "items": {
+            "Shawarma": 2,
+            "Juice": 1
+        }
+    },
+    {
+        "order_id": 108,
+        "items": {
+            "Fried Rice": 1,
+            "Sandwich": 1
+        }
+    },
+    {
+        "order_id": 109,
+        "items": {
+            "Pizza": 1,
+            "Juice": 3
+        }
+    },
+    {
+        "order_id": 110,
+        "items": {
+            "Burger": 3,
+            "Shawarma": 1
+        }
+    }
+]
